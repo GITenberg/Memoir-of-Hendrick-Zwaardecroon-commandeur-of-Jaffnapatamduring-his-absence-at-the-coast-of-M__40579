@@ -1,0 +1,36 @@
+_repo: Memoir-of-Hendrick-Zwaardecroon-commandeur-of-Jaffnapatamduring-his-absence-at-the-coast-of-M__40579
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Pieters, Sophia
+    gutenberg_agent_id: '40712'
+    url: http://www.gutenberg.org/2009/agents/40712
+covers:
+- cover_type: archival
+  image_path: 40579-h/images/new-cover-tn.jpg
+creator:
+  author:
+    agent_name: Zwaardecroon, Hendrick
+    alias: Jaffna (Sri Lanka). Commandeur, 1694-1697 (Zwaardecroon)
+    birthdate: 1667
+    deathdate: 1728
+    gutenberg_agent_id: '40709'
+    url: http://www.gutenberg.org/2009/agents/40709
+    wikipedia: https://en.wikipedia.org/wiki/Hendrick_Zwaardecroon
+description: ''
+gutenberg_issued: '2012-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40579'
+  lccn: '11017144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jaffna (Sri Lanka) -- History'
+- !lcc 'DS'
+title: "Memoir of Hendrick Zwaardecroon, commandeur of Jaffnapatam (afterwards Governor-General\
+  \ of Nederlands India) 1697.\r\nFor the guidance of the council of Jaffnapatam,\
+  \ during his absence at the coast of Malabar."
+url: http://www.gutenberg.org/ebooks/40579
