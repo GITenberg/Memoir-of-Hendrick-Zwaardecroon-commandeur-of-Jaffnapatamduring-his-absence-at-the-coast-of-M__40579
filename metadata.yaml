@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40709
     wikipedia: https://en.wikipedia.org/wiki/Hendrick_Zwaardecroon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40579#Memoir-of-Hendrick-Zwaardecroon-commandeur-of-Jaffnapatamduring-his-absence-at-the-coast-of-M_
 gutenberg_issued: '2012-08-25'
 gutenberg_type: Text
 identifiers:
